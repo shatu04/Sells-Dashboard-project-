@@ -65,7 +65,7 @@ The dataset includes:
 
 ## 👤 Author
 
-**Pavitra**
+**Shatavari Birajdar**
 
 * 💼 Data Visualization Enthusiast
 * 🔗 [LinkedIn Profile](#) *https://www.linkedin.com/in/shatavari-birajdar-996112156/*
