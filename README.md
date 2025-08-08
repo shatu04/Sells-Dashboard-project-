@@ -1,7 +1,11 @@
 # Sells-Dashboard-project-  Pavitra Sells Dashboard
 About the Project
+
+
 The Pavitra Sells Dashboard is an interactive Power BI report that visualizes store sales data to help businesses make data-driven decisions.
 It highlights key performance indicators such as total sales, profits, quantity sold, and payment method distribution, making it easier to monitor trends and identify growth opportunities.
+
+
 🔍 Key Insights
 Identify top-performing product categories and subcategories.
 
